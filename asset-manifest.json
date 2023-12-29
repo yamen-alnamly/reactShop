@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-shop/static/css/main.c25b37b0.css",
+    "main.js": "/react-shop/static/js/main.06e7ed1c.js",
+    "static/js/787.0de065c8.chunk.js": "/react-shop/static/js/787.0de065c8.chunk.js",
+    "static/media/product-1.jpg": "/react-shop/static/media/product-1.f2b4426438b4bee74020.jpg",
+    "static/media/product-5.jpg": "/react-shop/static/media/product-5.de8aa66c543aed7d9abd.jpg",
+    "static/media/product-4.jpg": "/react-shop/static/media/product-4.3b8d823113325a49f943.jpg",
+    "static/media/product-3.jpg": "/react-shop/static/media/product-3.2404d03c4b220e5a70d0.jpg",
+    "static/media/product-8.jpg": "/react-shop/static/media/product-8.7f1434c1501703cc2604.jpg",
+    "static/media/transparent-sad-21.png": "/react-shop/static/media/transparent-sad-21.05e215096222f90a2624.png",
+    "static/media/product-7.jpg": "/react-shop/static/media/product-7.51f3fe0c5ea4397b8266.jpg",
+    "static/media/product-10.jpg": "/react-shop/static/media/product-10.2d2644dabbf60b46ba83.jpg",
+    "static/media/product-6.jpg": "/react-shop/static/media/product-6.114b5d22437f6fd3677c.jpg",
+    "static/media/product-9.webp": "/react-shop/static/media/product-9.50addfdc2aa3cb1942c5.webp",
+    "static/media/product-2.jpg": "/react-shop/static/media/product-2.7d34f463407310e92edf.jpg",
+    "static/media/product-11.webp": "/react-shop/static/media/product-11.127d1936b475ae67d444.webp",
+    "index.html": "/react-shop/index.html",
+    "main.c25b37b0.css.map": "/react-shop/static/css/main.c25b37b0.css.map",
+    "main.06e7ed1c.js.map": "/react-shop/static/js/main.06e7ed1c.js.map",
+    "787.0de065c8.chunk.js.map": "/react-shop/static/js/787.0de065c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c25b37b0.css",
+    "static/js/main.06e7ed1c.js"
+  ]
+}
