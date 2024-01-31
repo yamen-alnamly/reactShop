@@ -1,0 +1,38 @@
+.navbar
+{
+   
+    height: 60px;
+    width: 100%;
+    min-width: fit-content;
+    background-color: rgb(47, 150, 136);
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 0;
+}
+.navname
+{
+    font-weight: 900;
+    color: white;
+    font-style: italic;
+    font-size: 42px;
+margin: 0 40px;
+}
+.links
+{
+   margin:  0 40px;
+    display: flex;
+    align-items: center;
+    gap: 26px;
+}
+.links a
+{
+      
+    color: white;
+    font-size: 22px;
+    text-decoration: none;
+}
+.links a:nth-child(2)
+{
+    margin-top: 14px;
+}
+
